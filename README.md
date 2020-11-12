@@ -27,7 +27,7 @@ cd s2v_lib
 make -j4  
 ```
 
-Note: We utilize existing open-source code for the structure2vec architecture (https://github.com/Hanjun-Dai/pytorch_structure2vec/tree/master/s2v_lib) and add the batch nomarlization part in it.
+Note: We utilize existing open-source code for the structure2vec architecture (https://github.com/Hanjun-Dai/pytorch_structure2vec/tree/master/s2v_lib) and add the batch nomarlization function in it.
 
 
 ## Data Prepareation
