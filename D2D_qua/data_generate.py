@@ -35,7 +35,7 @@ def data_generate(data_name, link_num, graph_num, train_flag):
 	data_path = './data/%s/%s/label.txt' % (train_flag, data_name)
 	if os.path.exists(data_path):
 		os.remove(data_path)
-	matfn = './mat/dataset_%d_%d_4.mat' % (graph_num,link_num)
+	matfn = './mat/dataset_%d_%d.mat' % (graph_num,link_num)
 	data= sio.loadmat(matfn)
 	channel = data['Channel']
 	graph_label = data['Label']
