@@ -1,5 +1,5 @@
 # graph_embedding_link_scheduling
-This repository contains the entire code for our TWC work "Graph Embedding based Wireless Link Scheduling with Few Training Samples", available at https://arxiv.org/pdf/1906.02871.pdf and to appear in TWC.
+This repository contains the entire code for our TWC work "Graph Embedding based Wireless Link Scheduling with Few Training Samples", available at https://ieeexplore.ieee.org/document/9285223.
 
 For any reproduce, further research or development, please kindly cite our TWC Journal paper:
 
