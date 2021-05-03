@@ -4,7 +4,7 @@ This repository contains the entire code for our TWC work "Graph Embedding based
 For any reproduce, further research or development, please kindly cite our TWC Journal paper:
 
 M. Lee, G. Yu, and G. Y. Li, "Graph embedding based wireless link scheduling with few training samples," IEEE Trans. Wireless
-Commun., to be published.
+Commun., vol. 20, no. 4, pp. 2282-2294, Apr. 2021.
 
 
 # How to use?
@@ -42,7 +42,7 @@ Copy the output data into  "D2D_qua/mat".
 
 Go to "D2D_qua".
 
-Run the main programm.
+Run the main program.
 
 ```
 ./run.sh
